@@ -3,11 +3,15 @@
 
 ## Скриншот
 ![123](https://user-images.githubusercontent.com/123867305/226818621-e09b26f7-956b-4221-bda5-7fa0002d01a0.png)
+
 ## Установка:
-[click me to download](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md)
+<li>Развернуть проект у себя и запустить exe file по пути "paygame/configuration/game_to/game_to.exe"
+   
+
+
+
+
 ## Описание проекта
-
-
 Игра "Морской бой", написанная на Python с использованием графической библиотеки Tkinter.
 В игре присутствует алгоритм нахождения для И.И последующих частей корабля после обнаржуения хотя бы одного поля случайным выбором.
 
