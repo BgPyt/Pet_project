@@ -1,4 +1,4 @@
-from GamePlay import *
+from functionality import *
 from tkinter import Tk, Label, PhotoImage
 from random import randint, choice
 
