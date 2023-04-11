@@ -5,7 +5,10 @@
 ![123](https://user-images.githubusercontent.com/123867305/226818621-e09b26f7-956b-4221-bda5-7fa0002d01a0.png)
 
 ## Установка:
-<li>Развернуть проект у себя и запустить exe file по пути "paygame/configuration/game_to/game_to.exe"
+<li>Клонирование репозитория:
+<p><code>git clone https://github.com/BgPyt/Sea_Battle.git</code>
+<li>Запуск приложения:
+<p><code>cd Sea_Battle/paygame/configuration; python initialization.py</code>
    
 
 
