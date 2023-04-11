@@ -1,4 +1,4 @@
-from paygame.configuration.game_to import Ship, Label
+from paygame.configuration.initialization.py import Ship, Label
 import tkinter.messagebox as mb
 from tkinter import Button
 import time
