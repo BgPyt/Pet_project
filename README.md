@@ -7,8 +7,8 @@
 ## Установка:
 <li>Клонирование репозитория:
 <p><code>git clone https://github.com/BgPyt/Sea_Battle.git</code>
-<li>Запуск приложения:
-<p><code>cd Sea_Battle/paygame/configuration; python initialization.py</code>
+<li>Запуск приложения по пути для ОС Windows(8, 10):
+<p><code>Sea_Battle/paygame/configuration/game_to/game_to.exe</code>
    
 
 
